@@ -6,13 +6,13 @@ int *puntero;
 
 puntero = &vec [0];
 
-
+printf("%p", puntero );
 
 
     for ( int i=0 ; i < 5 ; i ++) {
 
     printf (" %d ", vec[i]  );
-    printf("%d\n", *(puntero + i ));
+    printf("%d", *(puntero + i));
     
 
 }
