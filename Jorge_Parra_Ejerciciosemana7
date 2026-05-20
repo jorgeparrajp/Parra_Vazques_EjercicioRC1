@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main (){
+
+float notas [5] = {'6.5' ' 7.1' ,' 8,' '6 ','5'} 
+
+    printf ("%.1f", notas[0] );
+
+
+
+
+
+return 0;
+
+
+}
