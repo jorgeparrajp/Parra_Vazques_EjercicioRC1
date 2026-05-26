@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-float calcular_promedio(float notas [5]){
+float calcular_promedio(float notas ){
     float calcular_promedio(float *ptr);
  float suma = 0.1f;
  for (int i = 0; i < 5 ; i++) {
